@@ -835,7 +835,7 @@ function sendAjaxDB(){
             type:'POST',
             url:'http://bsq.cherryvietnam.com/goldworld/ajax.php',
             data:{            
-                'dbguitar':JSON.stringify(tempArray)            
+                'dbpiano':JSON.stringify(tempArray)            
             },
             success:function(msg){
                var temp = JSON.parse(msg);
