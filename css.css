@@ -137,9 +137,12 @@ input{
     position: absolute;
     
 }
+.sprite-piano{
+    width:800px;
+}
 .black{
     width: 50px;
-    height: 330px;
+    height: 240px;
     top: 0;
     z-index: 999999;
 }
@@ -172,7 +175,7 @@ input{
 .white{
     top: 0;
     width: 78px;
-    height: 510px;
+    height: 483px;
     z-index: 99;
 }
 #btn_piano8{

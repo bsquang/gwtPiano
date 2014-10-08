@@ -26,24 +26,24 @@ var lastNote;
 
 
 var strSnd = [];
-strSnd[1] = "piano/black/B1.mp3";
-strSnd[2] = "piano/black/B2.mp3";
-strSnd[3] = "piano/black/B3.mp3";
-strSnd[4] = "piano/black/B4.mp3";
-strSnd[5] = "piano/black/B5.mp3";
-strSnd[6] = "piano/black/B6.mp3";
-strSnd[7] = "piano/black/B7.mp3";
+strSnd[1] = "res/SOUND/INS/Piano-Black_01.mp3";
+strSnd[2] = "res/SOUND/INS/Piano-Black_02.mp3";
+strSnd[3] = "res/SOUND/INS/Piano-Black_03.mp3";
+strSnd[4] = "res/SOUND/INS/Piano-Black_04.mp3";
+strSnd[5] = "res/SOUND/INS/Piano-Black_05.mp3";
+strSnd[6] = "res/SOUND/INS/Piano-Black_06.mp3";
+strSnd[7] = "res/SOUND/INS/Piano-Black_07.mp3";
 
-strSnd[8] = "piano/white/T1.mp3";
-strSnd[9] = "piano/white/T2.mp3";
-strSnd[10] = "piano/white/T3.mp3";
-strSnd[11] = "piano/white/T4.mp3";
-strSnd[12] = "piano/white/T5.mp3";
-strSnd[13] = "piano/white/T6.mp3";
-strSnd[14] = "piano/white/T7.mp3";
-strSnd[15] = "piano/white/T8.mp3";
-strSnd[16] = "piano/white/T9.mp3";
-strSnd[17] = "piano/white/T10.mp3";
+strSnd[8] = "res/SOUND/INS/Piano-White_01.mp3";
+strSnd[9] = "res/SOUND/INS/Piano-White_02.mp3";
+strSnd[10] = "res/SOUND/INS/Piano-White_03.mp3";
+strSnd[11] = "res/SOUND/INS/Piano-White_04.mp3";
+strSnd[12] = "res/SOUND/INS/Piano-White_05.mp3";
+strSnd[13] = "res/SOUND/INS/Piano-White_06.mp3";
+strSnd[14] = "res/SOUND/INS/Piano-White_07.mp3";
+strSnd[15] = "res/SOUND/INS/Piano-White_08.mp3";
+strSnd[16] = "res/SOUND/INS/Piano-White_09.mp3";
+strSnd[17] = "res/SOUND/INS/Piano-White_10.mp3";
 
 
 strSnd[18] = "res/SOUND/beat-edm.mp3";
