@@ -1,4 +1,4 @@
-// BSQ GUITAR 2014
+// BSQ PIANO 2014
 // Property of CHERRY
 // LOOP
 var vendors = ['webkit', 'moz'];
@@ -220,7 +220,7 @@ function onDeviceReady() {
     if (!bPHONEGAP) {
 
         arrBGM[0] = new Audio(strSnd[18]); arrBGM[0].volume = 0.5;
-        arrBGM[1] = new Audio(strSnd[19]); arrBGM[1].volume = 0.5;
+        arrBGM[1] = new Audio(strSnd[19]); arrBGM[1].volume = 0.3;
         arrBGM[2] = new Audio(strSnd[20]); arrBGM[2].volume = 0.5;
 
         soundBGM = arrBGM[currentBGM];
@@ -232,7 +232,7 @@ function onDeviceReady() {
         arrBGM[2] = new Media(strSnd[20], function() {}, function() {});
         
         arrBGM[0].setVolume(0.5);
-        arrBGM[1].setVolume(0.5);
+        arrBGM[1].setVolume(0.3);
         arrBGM[2].setVolume(0.5);
         
         soundBGM = arrBGM[currentBGM];
@@ -356,25 +356,6 @@ function onDeviceReady() {
     });
 }
 
-//FAIL 0546 180914
-//var currentDuration = 0;
-//function getAtLastDuration(){
-//    if (bPHONEGAP) {
-//        var temp = soundBGM.getDuration();
-//        
-//        if (temp < 0) {
-//            
-//            return getAtLastDuration();
-//            
-//        }else
-//        {
-//            return temp;
-//        }
-//    }
-//    
-//    else return soundBGM.duration;
-//    
-//}
 
 var bTutorial = true;
 var stepTut = 1;

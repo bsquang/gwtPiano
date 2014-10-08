@@ -147,25 +147,25 @@ input{
     z-index: 999999;
 }
 #btn_piano1{
-    left: 53px;
+    left: 54px;
 }
 #btn_piano2{
-    left: 133px; 
+    left: 135px; 
 }
 #btn_piano3{
-    left: 291px; 
+    left: 295px; 
 }
 #btn_piano4{
-    left: 369px; 
+    left: 374px; 
 }
 #btn_piano5{
-    left: 450px; 
+    left: 455px; 
 }
 #btn_piano6{
-    left: 606px; 
+    left: 615px; 
 }
 #btn_piano7{
-    left: 686px; 
+    left: 692px; 
 }
 
 .btnPiano{
@@ -191,73 +191,74 @@ input{
     left: 240px; 
 }
 #btn_piano12{
-    left: 318px; 
+    left: 320px; 
 }
 #btn_piano13{
-    left: 399px; 
+    left: 400px; 
 }
 #btn_piano14{
-    left: 478px; 
+    left: 479px; 
 }
 #btn_piano15{
-    left: 557px; 
+    left: 560px; 
 }
 #btn_piano16{
-    left: 635px; 
+    left: 640px; 
 }
 #btn_piano17{
-    left: 712px; 
+    left: 720px; 
 }
 
 .btnPiano_top{
-    height: 330px;
+    height: 240px;
     position: absolute;
     top: 0;
 }
 
 #btn_top0{
-    width: 45px;
+    width: 55px;
 }
 #btn_top2{
-    width: 45px;
-    left: 28px;
+    width: 55px;
+    left: 24px;
 }
 #btn_top3{
-    width: 45px;
+    width: 53px;
+    left: 2px;
 }
 #btn_top6{
-    width: 45px;
-    left: 28px;
+    width: 53px;
+    left: 25px;
 }
 #btn_top7{
-    width: 45px;
+    width: 55px;
 }
 #btn_top9{
-    width: 45px;
-    left: 28px;
+    width: 52px;
+    left: 24px;
 }
 #btn_top1{
-    width: 23px;
-    left: 28px;
+    width: 30px;
+    left: 24px;
 }
 #btn_top4{
-    width: 23px;
-    left: 28px;
+    width: 30px;
+    left: 24px;
 }
 #btn_top5{
-    width: 23px;
-    left: 28px;
+    width: 30px;
+    left: 24px;
 }
 #btn_top8{
-    width: 23px;
-    left: 28px;
+    width: 31px;
+    left: 24px;
 }
 .activeBG{
     background: yellow;
 }
 .btnPiano_bottom{
     width: 76px;
-    height: 180px;
+    height: 243px;
     position: absolute;
     bottom: 0;
 }
@@ -285,9 +286,9 @@ input{
     height: 50px;
     position: absolute;
     background: #f8e703;
-    left: 312px;
+    left: 350px;
     border-radius: 20px;
-    top: -100px;
+    top: -120px;
     display: none;
 }
 
@@ -299,7 +300,7 @@ input{
 
 #mainGame{
     position: absolute;
-    left: 130px;
+    left: 110px;
     top: 200px;
 }
 
